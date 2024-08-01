@@ -1,4 +1,4 @@
-Anda bisa mengikuti tutorial untuk setiap program ini di channel YouTube [Mandatera Technology](https://www.youtube.com/@MandateraTechnology). 
+Anda bisa mengikuti tutorial untuk setiap program ini di channel YouTube  <a href="https://www.youtube.com/@MandateraTechnology" target="_blank">Mandatera Technology</a>. 
 Setiap video dirancang untuk membantu Anda memahami cara kerja program dengan lebih baik.
 
 Jangan lupa untuk
