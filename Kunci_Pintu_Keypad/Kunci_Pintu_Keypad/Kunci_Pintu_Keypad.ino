@@ -1,3 +1,19 @@
+/*
+  -ESP32-
+  ---------Keypad--------
+  C1 = GPIO 33
+  C2 = GPIO 32
+  C3 = GPIO 13
+  R4 = GPIO 25
+  R3 = GPIO 26
+  R2 = GPIO 27
+  R1 = GPIO 14
+  ------------------------
+  ----------Relay---------
+  Relay = GPIO 23 
+  ------------------------
+*/
+
 #include <Keypad.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
